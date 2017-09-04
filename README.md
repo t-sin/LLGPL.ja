@@ -20,6 +20,13 @@ For more information of LLGPL, see below:
 
 ## ディレクトリ構成
 
+```
+LLGPL.ja
+├── LLGPL-ja.md  ... LLGPLの前文の日本語訳
+└── README.md    ... このREADME
+
+```
+
 ## LLGPLについて
 
 この節では、Franz Inc.がLLGPL作成に至った経緯が簡単に記載されている文章 (<http://opensource.franz.com/> の"License Terms") の翻訳を記載します。 
