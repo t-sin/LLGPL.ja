@@ -30,5 +30,10 @@ For more information of LLGPL, see below:
 
 われわれはLLGPLをほとんどのオープンソースプロジェクトに使用しており、また、あなたもそうすることができます。あなたのどんなオープンソースLispアプリケーションにもLLGPLを自由に組み込んでください。われわれは[template/header.txt](http://opensource.franz.com/template/header.txt)やそれに類するものを、各ソースファイルの先頭に置くことを推奨します。また、[template/license.txt](http://opensource.franz.com/template/license.txt)を配布物のルートディレクトリに置くことを推奨します。
 
-## OSSライセンスについての情報
+## 参考: OSSライセンスについての情報
 
+IPAによりOSSライセンスについての調査・翻訳等の非常に有用なドキュメントが公開されています。
+
+- [OSSライセンス関連情報](https://www.ipa.go.jp/osc/osslegal.html)
+    - [GPL v3関連ドキュメント](https://www.ipa.go.jp/osc/license1.html)
+    - [「OSSライセンスの比較、利用動向および係争に関する調査」報告書](https://www.ipa.go.jp/osc/license2.html)
