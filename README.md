@@ -24,19 +24,11 @@ For more information of LLGPL, see below:
 
 この節では、Franz Inc.がLLGPL作成に至った経緯が簡単に記載されている文章 (<http://opensource.franz.com/> の"License Terms") の翻訳を記載します。 
 
-### 原文
-
-> Many popular open source licenses do not take into consideration the special features of dynamic languages -- especially Lisp. In an effort to remedy this, we have created a new license called the LLGPL, the Lisp Lesser GNU Public License. The LLGPL consists of a preamble, developed specifically for Lisp applications, and the LGPL. Please note that when these two conflict, the preamble takes precedence.
->
-> We use the LLGPL for most of our open source projects, and you can too. Feel free to incorporate the LLGPL into any of your open source Lisp applications. We recommend putting the contents of template/header.txt, or something similar, at the beginning of your source files. We also recommend putting the file template/license.txt somewhere in the root directory of your distribution.
-
 ### 日本語訳
 
 多くのオープンソースライセンスは動的言語の──特にLisp──の特別な機能を考慮に入れていません。このことを是正する努力のなかで、われわれ(訳注: Franz Inc.のこと)は[LLGPL](http://opensource.franz.com/preamble.html) (Lisp Lesser GNU Public License) と呼ばれる新たなライセンスを作成しました。LLGPLは、Lispアプリケーションのために明確に開発された前文と、[LGPL](http://opensource.franz.com/license.html)から成ります。これら二つがコンフリクトする場合、前文のほうを優先することに注意してください。
 
 われわれはLLGPLをほとんどのオープンソースプロジェクトに使用しており、また、あなたもそうすることができます。あなたのどんなオープンソースLispアプリケーションにもLLGPLを自由に組み込んでください。われわれは[template/header.txt](http://opensource.franz.com/template/header.txt)やそれに類するものを、各ソースファイルの先頭に置くことを推奨します。また、[template/license.txt](http://opensource.franz.com/template/license.txt)を配布物のルートディレクトリに置くことを推奨します。
 
-
 ## OSSライセンスについての情報
-
 
