@@ -33,7 +33,7 @@ LLGPL.ja
 
 ### 日本語訳
 
-多くのオープンソースライセンスは動的言語の──特にLisp──の特別な機能を考慮に入れていません。このことを是正する努力のなかで、われわれ(訳注: Franz Inc.のこと)は[LLGPL](http://opensource.franz.com/preamble.html) (Lisp Lesser GNU Public License) と呼ばれる新たなライセンスを作成しました。LLGPLは、Lispアプリケーションのために明確に開発された前文と、[LGPL](http://opensource.franz.com/license.html)から成ります。これら二つがコンフリクトする場合、前文のほうを優先することに注意してください。
+多くのオープンソースライセンスは動的言語の──特にLisp──の特別な機能を考慮に入れていません。このことを是正する努力のなかで、われわれ(訳注: Franz Inc.のこと)は[LLGPL](http://opensource.franz.com/preamble.html) (Lisp Lesser GNU Public License) と呼ばれる新たなライセンスを作成しました。LLGPLは、Lispアプリケーションのために明確に開発された前文と、[LGPL](http://opensource.franz.com/license.html)から成ります。これら二つが矛盾する場合、前文のほうを優先することに注意してください。
 
 われわれはLLGPLをほとんどのオープンソースプロジェクトに使用しており、また、あなたもそうすることができます。あなたのどんなオープンソースLispアプリケーションにもLLGPLを自由に組み込んでください。われわれは[template/header.txt](http://opensource.franz.com/template/header.txt)やそれに類するものを、各ソースファイルの先頭に置くことを推奨します。また、[template/license.txt](http://opensource.franz.com/template/license.txt)を配布物のルートディレクトリに置くことを推奨します。
 
