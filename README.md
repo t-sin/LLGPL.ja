@@ -18,6 +18,8 @@ For more information of LLGPL, see below:
 
 本リポジトリの目的は、日本語を母語とする人々がLLGPLについて理解するのを助けることです。
 
+LLGPL前文の日本語役: [LLGPL-ja.md](LLGPL-ja.md)
+
 ## ディレクトリ構成
 
 ```
