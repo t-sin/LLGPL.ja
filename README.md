@@ -16,9 +16,14 @@ For more information of LLGPL, see below:
 
 本リポジトリはLLGPL (Lisp GNU Lesser General Public License)についての翻訳文書を収めるものです。LLGPLはLispの事情を考慮に入れた準コピーレフトのOSSライセンスで、Franz Inc.によって作成されました。
 
-本リポジトリの目的は、日本語を母語とする人々がLLGPLについて理解するのを助けることです。
+本リポジトリの目的は、日本語を母語とする人々がLLGPLについて理解するのを助けるための**参考訳**です。法的に詳細を検討する場合は、**英語原文を参照してください**。
 
-LLGPL前文の日本語役: [LLGPL-ja.md](LLGPL-ja.md)
+なお、LLGPL前文の著作権はFranz Inc.が保持しています。
+
+- [Franz Inc. によるLLGPL前文(英語原文)](http://opensource.franz.com/preamble.html)
+- [The Allegro Common Lisp Open Source Center](http://opensource.franz.com/)
+
+LLGPL前文の日本語訳: [LLGPL-ja.md](LLGPL-ja.md)
 
 ## ディレクトリ構成
 
